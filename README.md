@@ -45,7 +45,7 @@ R(s, a) =
 
 ## 🖼️ Environment Visualization
 
-![Therapy Agent Simulation](https://github.com/Esther-Mbanzabigwi/Esther_MBANZABIGWI_RL_summative-/blob/main/GIF_Image/therapy_env_colored.png?raw=true)
+![Therapy Agent Simulation](https://github.com/Esther-Mbanzabigwi/Esther_MBANZABIGWI_RL_summative-/blob/main/GIF_Image/therapy_env_colored.gif)
 
 ## 📁 Project Structure
 
